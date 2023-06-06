@@ -1,4 +1,4 @@
 a=5
 b=5
 c=a*b
-console.log(c)
+console.log(a+b)
